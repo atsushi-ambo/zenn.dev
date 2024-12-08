@@ -6,6 +6,9 @@ topics: ["SRE"]
 published: true
 publication_name: "gmomedia"
 ---
+:::message
+本記事は、[GMOメディア株式会社 Advent Calendar 2024](https://qiita.com/advent-calendar/2024/gmo-media)の8日目の記事です。
+:::
 ## はじめに
 私は現在、SRE（Site Reliability Engineering）の導入に取り組んでおり、日々様々な課題に直面しています。これらはGMOメディア特有の課題かもしれませんが、同じようにSREを始めようとしている方々に少しでも参考になればと思い、この経験を共有します。
 
