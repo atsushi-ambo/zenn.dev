@@ -34,7 +34,7 @@ ollama version is 0.5.7
 Deepseek-R1の32Bモデルを使用するには、以下のコマンドを実行します：
 
 ```bash
-ollama run deepseek-coder:32b
+ollama run deepseek-r1:32b
 ```
 
 初回実行時は、モデルのダウンロードが始まります。モデルサイズは約20GB程度ですが、ダウンロードには結構時間がかかります。
