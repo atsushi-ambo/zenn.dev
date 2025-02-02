@@ -4,6 +4,7 @@ emoji: "🚀"
 type: "tech"
 topics: ["aws", "vscode", "recline", "python"]
 published: true
+publication_name: "gmomedia"
 ---
 
 # VSCode Reclineを使ってAWS SDKを実装してみた
