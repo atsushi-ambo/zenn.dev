@@ -3,7 +3,7 @@ title: "MacBook ProでDeepseek-R1を動かしてみた"
 emoji: "🤖"
 type: "tech"
 topics: ["ollama", "AI", "deepseek", "LLM"]
-published: false
+published: true
 publication_name: "gmomedia"
 ---
 
