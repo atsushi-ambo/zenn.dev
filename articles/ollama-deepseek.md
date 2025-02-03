@@ -16,7 +16,7 @@ GMOインターネットグループでは[業務での利用は禁止](https://
 
 - MacBook Pro (M3 Pro)
 - メモリ: 36GB
-- ollama version: 0.5.7
+- ollama version: 最新
 
 ## Ollamaのインストール
 
@@ -176,6 +176,12 @@ Everything seems to check out. I think I've got it!
 ```
 Gemini, GPT-o1, Claude 3.5にも同じ質問を聞いてみましたが、全部同じ回答でした。
 私個人として性能についてはもう少し確認してみる必要がありますが、DeepSeekが発表している[ベンチマーク](https://github.com/deepseek-ai/DeepSeek-R1)だとかなり高い性能みたいです。
+
+## 削除
+もし、不要な場合は下記のコマンドで削除できます。
+```
+% ollama rm deepseek-r1:32b
+deleted 'deepseek-r1:32b'
 
 ## まとめ
 
