@@ -4,6 +4,7 @@ emoji: "📊"
 type: "tech"
 topics: ["aws", "cloudwatch", "athena", "cost"]
 published: true
+publication_name: "gmomedia"
 ---
 
 # AWS CloudWatchの謎コストを解明する
