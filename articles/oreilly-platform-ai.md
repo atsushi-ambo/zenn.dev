@@ -4,7 +4,7 @@ emoji: "⚙️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nginx", "apache", "phpfpm", "AI", "OReilly"]
 published: true
-publcation_name: "gmomedia"
+publication_name: "gmomedia"
 ---
 
 # O'Reilly AIに聞いてみた - NginxとApacheのスレッディングモデルの違い
