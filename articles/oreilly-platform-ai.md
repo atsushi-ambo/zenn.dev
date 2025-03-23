@@ -12,7 +12,7 @@ publcation_name: "gmomedia"
 GMOメディアでSREを担当している安保です。
 今回はGMOメディアの福利厚生であるTech Tryという制度を使用してオライリー学習プラットフォームを使用してみた感想を書きます。
 
-Tech Tryは技術書購入、カンファレンスの参加費用、オンラインコースの受講費用など技術向上に関わる費用を会社が負担してくれる制度です。
+Tech Tryは技術書購入、カンファレンスの参加費用、オンラインコースの受講費用など技術向上に関わる費用を会社が一部負担してくれる制度です。
 
 この制度を利用して私は[O'Reilly学習プラットフォーム](https://www.oreilly.com/online-learning/)を契約してみました。
 この学習プラットフォームには[O’Reilly Answer](https://www.oreilly.com/online-learning/feature-answers.html)というAIを利用している機能があり、質問をして生成AIが回答してくれます。
