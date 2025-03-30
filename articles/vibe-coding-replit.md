@@ -1,5 +1,5 @@
 ---
-title: "Vibe Coding: AIエージェントと一緒にサンプルアプリを作ってみた"
+title: "流行のVibe Coding授業を受講してサンプルアプリを作ってみた"
 emoji: "🤖"
 type: "tech"
 topics: ["AI", "programming", "replit", "vibecoding", "webdevelopment"]
