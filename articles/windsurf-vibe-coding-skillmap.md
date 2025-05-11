@@ -7,7 +7,7 @@ published: true
 publication_name: "gmomedia"
 ---
 
-# WindsurfでVibe Coding体験 - Skillmap.devを作ってみた
+# Skillmap.devを作ってみた
 
 GMOメディアSREの安保です。今回はAIコーディングエージェント「Windsurf」を使い、実際にバイブコーディングスタイルでエンジニア向け学習プロジェクト[Skillmap.dev](https://github.com/atsushi-ambo/skillmap.dev)を立ち上げてみました。その体験をシェアします。
 
