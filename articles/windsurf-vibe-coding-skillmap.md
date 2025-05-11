@@ -9,11 +9,11 @@ publication_name: "gmomedia"
 
 # Skillmap.devを作ってみた
 
-GMOメディアSREの安保です。今回はAIコーディングエージェント「Windsurf」を使い、実際にバイブコーディングスタイルでエンジニア向け学習プロジェクト[Skillmap.dev](https://github.com/atsushi-ambo/skillmap.dev)を立ち上げてみました。その体験をシェアします。
+GMOメディアSREの安保です。今回はAIコーディングエージェント[Windsurf](https://windsurf.com/)を使い、実際にバイブコーディングスタイルでエンジニア向け学習プロジェクト[Skillmap.dev](https://github.com/atsushi-ambo/skillmap.dev)を立ち上げてみました。その体験をシェアします。
 
 ## Windsurfとは？
 
-Windsurfは、AIエージェントとペアプロしながら開発を進める“バイブコーディング”体験を実現する次世代のAI開発プラットフォームです。
+Windsurfは、AIエージェントとペアプロしながら開発を進める“バイブコーディング”体験を実現する次世代のAI開発エディタです。
 
 2025年春、Bloomberg等の報道によればOpenAIによる買収で合意したとされており、今後のAI開発基盤としても注目されています。
 
