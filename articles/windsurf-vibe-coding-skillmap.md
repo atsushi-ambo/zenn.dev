@@ -1,5 +1,5 @@
 ---
-title: "WindsurfでVibe Coding体験 - Skillmap.devを作ってみた"
+title: "WindsurfでVibe Coding体験"
 emoji: "🏄‍♂️"
 type: "tech"
 topics: ["AI", "Windsurf", "VibeCoding"]
