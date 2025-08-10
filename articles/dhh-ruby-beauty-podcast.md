@@ -22,7 +22,7 @@ David Heinemeier Hansson（通称DHH）は、Ruby on Railsの生みの親であ�
 
 DHHがプログラミング、テック、人生観まで広く語った6時間超のインタビューです。Rubyに恋に落ちた理由（「人間が読みやすく、幸福になれる言語設計」）、現代の過度な複雑性（マイクロサービスやクラウド依存）への懐疑、AI時代でも「自分の手でタイプして学ぶ」姿勢の重要性などが語られました。
 
-- 参考: [YouTube: Reflections on Programming, Tech, and Life](https://youtu.be/vagyIcmIGOQ?list=TLGGBhloLLCM-vswOTA4MjAyNQ)
+- 参考: [YouTube: Future of Programming, AI, Ruby on Rails, Productivity & Parenting](https://youtu.be/vagyIcmIGOQ?list=TLGGBhloLLCM-vswOTA4MjAyNQ)
 
 ---
 
