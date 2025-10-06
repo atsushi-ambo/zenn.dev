@@ -3,7 +3,7 @@ title: "SREチームでポストモーテムを始めてみた"
 emoji: "📝"
 type: "tech"
 topics: ["SRE", "ポストモーテム", "障害対応"]
-published: false
+published: true
 publication_name: "gmomedia"
 ---
 
