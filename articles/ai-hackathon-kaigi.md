@@ -4,6 +4,7 @@ emoji: "🤖"
 type: "idea"
 topics: ["AI", "ハッカソン", "企画", "アイデアソン"]
 published: true
+publication_name: "gmomedia"
 ---
 
 ## はじめに
