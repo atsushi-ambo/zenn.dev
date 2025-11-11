@@ -4,6 +4,7 @@ emoji: "🔧"
 type: "tech"
 topics: ["SRE", "Terraform", "ClaudeCode", "IaC", "AWS"]
 published: true
+publication_name: "gmomedia"
 ---
 
 ## はじめに
